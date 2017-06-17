@@ -1,2 +1,3 @@
 # hello-world
-another repository
+Hi humans,
+this is a message from outer space!
